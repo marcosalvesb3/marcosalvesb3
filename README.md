@@ -2,7 +2,7 @@
   
 * 🙋 - Gerente de produção rumo a virar DEV
 * 🚀 - FullStack é a meta 
-* 💻 - Estudo JavaScript e SQL Server no momento
+* 💻 - Estudo Java e SQL Server no momento
  
 <div align="center">
   <a href="https://github.com/marcosalvesb3">
