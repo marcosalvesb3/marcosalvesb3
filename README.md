@@ -1,8 +1,5 @@
   ## Olá, meu nome é Marco Aurélio
   
-* 🙋 - Gerente de produção rumo a virar DEV
-* 🚀 - FullStack é a meta 
-* 💻 - Estudo Java e SQL Server no momento
  
 <div align="center">
   <a href="https://github.com/marcosalvesb3">
